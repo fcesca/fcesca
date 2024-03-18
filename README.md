@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fcesca
-- 👀 I’m interested in all things food.
-- 💞️ I’m looking to collaborate on a song!
-- 📫 How to reach me francescas@live.com
+- 👋 Hi, I’m Francesca.
+- 👀 I am a QA Engineer and Foodie. 
+- 💞️ Happy to learn and share new ideas in testing.
+- 📫 francescas@live.com
 
 <!---
 fcesca/fcesca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
